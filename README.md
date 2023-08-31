@@ -6,13 +6,6 @@ This task involves generating an Excel file that contains titles and IDs of auto
 
 In a software development environment, it's essential to keep track of automated tests, including their titles and IDs. This task aims to automate the process of generating an Excel file with this information by utilizing the Swagger documentation for the User Service and Wallet Service.
 
-## Prerequisites
-
-To complete this task, you will need:
-
-- Access to the Swagger documentation for the User Service and Wallet Service.
-- Required libraries or packages for handling Excel files (e.g., `openpyxl`, `pandas`).
-
 ## Task Description
 
 The task involves the following steps:
